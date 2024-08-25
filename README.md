@@ -2,12 +2,6 @@
 
 **Arius Scripts** is dedicated to providing high-quality scripts that meet the needs of developers and enthusiasts alike. Our focus is on creating high quality scripts.
 
----
-
-## 🌐 Connect with Us
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TkjDhjyeSe)
-
----
 
 ## 💻 Our Tech Stack
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -22,5 +16,5 @@
 
 ---
 
-## ✍️ Inspirational Dev Quote
+##  Quote of the day
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
