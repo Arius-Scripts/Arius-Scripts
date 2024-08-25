@@ -1,4 +1,4 @@
-# Arius Development
+# Arius Scripts
 
 Welcome to my GitHub! I'm passionate about coding and constantly learning new technologies. Below you'll find more information about me, my skill set, and some interesting stats.
 
@@ -20,7 +20,7 @@ Here are some of the technologies I've been working with:
 ---
 
 ## 📊 GitHub Stats
-![Arius Development's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arius-Development&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Arius Scripts's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arius-Development&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 
